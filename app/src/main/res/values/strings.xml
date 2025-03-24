@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CashPoint</string>
+    <string name="accessibility_service_description">Service d'assistance vocale pour malvoyants</string>
+</resources>
